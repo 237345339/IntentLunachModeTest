@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
         test3.setVisibility(View.GONE);
 
         test3.setText("L3");
+        //≤‚ ‘git
     }
 
     @OnClick(R.id.test2)
