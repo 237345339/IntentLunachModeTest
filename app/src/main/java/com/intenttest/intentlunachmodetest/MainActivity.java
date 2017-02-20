@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         test2.setText("id:"+getTaskId());
         test3.setVisibility(View.GONE);
 
-
+        test3.setText("L3");
     }
 
     @OnClick(R.id.test2)
