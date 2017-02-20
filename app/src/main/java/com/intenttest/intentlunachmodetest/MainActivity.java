@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         test3.setVisibility(View.GONE);
 
         test3.setText("L3");
-        //²âÊÔgit
+        //è¿™æ˜¯ä¸ªé¬¼ï¼Ÿ
     }
 
     @OnClick(R.id.test2)
