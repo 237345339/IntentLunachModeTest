@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         test3.setVisibility(View.GONE);
 
         test3.setText("L3");
-        //这是个鬼？
+        //fuck
     }
 
     @OnClick(R.id.test2)
